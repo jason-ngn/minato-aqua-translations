@@ -1,13 +1,14 @@
 {
-	"COMMAND_HANDLER": {
-		"OWNER_ONLY": "Lệnh này chỉ dành cho cậu chủ của tớ !",
-		"USER_PERMISSIONS_REQUIRED": "Cậu không có quyền `{permission}` để thực hiện lệnh này!",
-		"CLIENT_PERMISSIONS_REQUIRED": "Tớ không có quyền `{permission}` để thực hiện lệnh này!",
-		"CALLBACK_ERROR": "Đã xảy ra lỗi trong khi thực hiện lệnh này, vui lòng thử lại ;-; !",
-		"DJ_ONLY": "Lệnh này chỉ dành cho DJ!",
-		"NO_MEMBER_VOICE_CHANNEL": "Cậu hãy tham gia một kênh thoại để dùng lệnh nhé <3",
-		"NO_CLIENT_VOICE_CHANNEL": "Tớ chưa kết nối vào kênh thoại nào cả !",
-		"NOT_IN_THE_SAME_CHANNEL": "Hãy vào cùng kênh thoại với tớ để sử dụng lệnh này !",
-		"NO_GUILD": "Vui lòng chạy lệnh này ở trong một server!"
-	}
+  "COMMAND_HANDLER": {
+    "OWNER_ONLY": "Lệnh này chỉ dành cho cậu chủ của tớ !",
+    "USER_PERMISSIONS_REQUIRED": "Cậu không có quyền `{permission}` để thực hiện lệnh này!",
+    "CLIENT_PERMISSIONS_REQUIRED": "Tớ không có quyền `{permission}` để thực hiện lệnh này!",
+    "CALLBACK_ERROR": "Đã xảy ra lỗi trong khi thực hiện lệnh này, vui lòng thử lại ;-; !",
+    "DJ_ONLY": "Lệnh này chỉ dành cho DJ!",
+    "NO_MEMBER_VOICE_CHANNEL": "Cậu hãy tham gia một kênh thoại để dùng lệnh nhé <3",
+    "NO_CLIENT_VOICE_CHANNEL": "Tớ chưa kết nối vào kênh thoại nào cả !",
+    "NOT_IN_THE_SAME_CHANNEL": "Hãy vào cùng kênh thoại với tớ để sử dụng lệnh này !",
+    "NOT_VOTED": "Cậu hãy bình chọn cho tớ để sử dụng lệnh này !",
+    "NO_GUILD": "Vui lòng chạy lệnh này ở trong một server!"
+  }
 }
