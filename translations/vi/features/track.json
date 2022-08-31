@@ -1,0 +1,7 @@
+{
+	"NOW_PLAYING": "Đang phát",
+	"ERROR_PLAYING": "Đã có lỗi khi phát bài hát này, hãy thử lại sau!",
+	"VOICE_EMPTY": "Tớ đã tạm dừng bài hát hiện tại bởi vì không có ai trong kênh thoại cả!",
+	"NOW_PLAYING_EMBED_DESCRIPTION": "**[{name}](<{url}>)**\ncủa **{author}**\n\n**Âm lượng:** {volume}%",
+	"PAUSED": "Tạm dừng"
+}

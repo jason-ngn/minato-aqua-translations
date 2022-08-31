@@ -1,0 +1,13 @@
+{
+	"COMMAND_HANDLER": {
+		"OWNER_ONLY": "This command is for owners only!",
+		"USER_PERMISSIONS_REQUIRED": "You don't have the `{permission}` permission to use this command!",
+		"CLIENT_PERMISSIONS_REQUIRED": "I don't have the `{permission}` permission to use this command!",
+		"CALLBACK_ERROR": "There was an error when executing this command, please try again!",
+		"DJ_ONLY": "This command is for DJs only!",
+		"NO_MEMBER_VOICE_CHANNEL": "Please join a voice channel!",
+		"NO_CLIENT_VOICE_CHANNEL": "There is no player for this server!",
+		"NOT_IN_THE_SAME_CHANNEL": "You are not in the same voice channel as mine!",
+		"NOT_VOTED": "Please vote to use this command!"
+	}
+}

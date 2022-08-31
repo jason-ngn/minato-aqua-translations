@@ -1,0 +1,30 @@
+{
+	"MUSIC": {
+		"NAME": "Music",
+		"DESCRIPTION": "Use the commands in this category to play music!"
+	},
+	"QUEUE": {
+		"NAME": "Queue",
+		"DESCRIPTION": "Use the commands in this category to manage the player's queue!"
+	},
+	"INFORMATION": {
+		"NAME": "Information",
+		"DESCRIPTION": "Use the commands in this category to view the basic information about the bot!"
+	},
+	"PLAYLIST": {
+		"NAME": "Playlist",
+		"DESCRIPTION": "Use the commands in this category to manage your playlist!"
+	},
+	"SETTINGS": {
+		"NAME": "Settings",
+		"DESCRIPTION": "Use the commands in this category to manage the bot to your server's needs!"
+	},
+	"DEVELOPER": {
+		"NAME": "Developer",
+		"DESCRIPTION": "The commands in this category are only for developers!"
+	},
+	"FILTERS": {
+		"NAME": "Filters",
+		"DESCRIPTION": "Use the commands in this category to change the filters of the current song!"
+	}
+}

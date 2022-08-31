@@ -1,0 +1,14 @@
+{
+	"NO_SONG_IN_QUEUE": "There is no song in the queue!",
+	"QUEUE_EMBED_FOOTER_TEXT": "Page {pageNumber}/{maxPages} • Queue loop: {emoji} • Total duration: {queueDuration} • Expires in 1 minute.",
+	"QUEUE_EMBED_TITLE": "{guildName}'s queue!",
+	"QUEUE_EMBED_PREVIOUS_SONG": "Previous song:",
+	"QUEUE_EMBED_CURRENT_SONG": "Current song:",
+	"QUEUE_EMBED_NEXT_SONG": "Next song:",
+	"REMOVED_DUPES": "Successfully removed duplicated songs in the queue!",
+	"SONG_UNAVAILABLE": "The song you specified is not available!",
+	"QUEUE_SHUFFLED": "Successfully shuffled the queue!",
+	"SONG_REMOVED": "Successfully removed **[{name}](<{url}>)** from the queue by **{tag}**!",
+	"SONG_MOVED": "Successfully moved **[{name}](<{url}>)** from position **{from}** to position **{to}**!",
+	"QUEUE_CLEARED": "Successfully cleared the queue!"
+}

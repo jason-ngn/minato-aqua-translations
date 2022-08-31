@@ -1,0 +1,7 @@
+{
+	"NOW_PLAYING": "Now playing",
+	"ERROR_PLAYING": "There was an error when playing this song, please try again!",
+	"VOICE_EMPTY": "I paused the current song because no one is in the voice channel!",
+	"NOW_PLAYING_EMBED_DESCRIPTION": "**[{name}](<{url}>)**\nby **{author}**\n\n**Volume:** {volume}%",
+	"PAUSED": "Paused"
+}

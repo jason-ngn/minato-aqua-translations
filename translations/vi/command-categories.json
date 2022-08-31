@@ -1,0 +1,30 @@
+{
+	"MUSIC": {
+		"NAME": "Âm nhạc",
+		"DESCRIPTION": "Dùng các lệnh trong danh mục này để phát nhạc!"
+	},
+	"QUEUE": {
+		"NAME": "Hàng chờ",
+		"DESCRIPTION": "Dùng các lệnh trong danh mục này để quản lí hàng chờ!"
+	},
+	"INFORMATION": {
+		"NAME": "Thông tin",
+		"DESCRIPTION": "Dùng các lệnh trong danh mục này để xem thông tin cơ bản về bot!"
+	},
+	"PLAYLIST": {
+		"NAME": "Playlist",
+		"DESCRIPTION": "Dùng các lệnh trong danh mục này để quản lí playlist của cậu!"
+	},
+	"SETTINGS": {
+		"NAME": "Cài đặt",
+		"DESCRIPTION": "Dùng các lệnh trong danh mục này để quản lí bot sao cho phù hợp những yêu cầu của server cậu!"
+	},
+	"DEVELOPER": {
+		"NAME": "Nhà phát triển",
+		"DESCRIPTION": "Các lệnh trong danh mục này chỉ dành cho nhà phát triển!"
+	},
+	"FILTERS": {
+		"NAME": "Bộ lọc",
+		"DESCRIPTION": "Dùng các lệnh trong danh mục này để thay đổi bộ lọc của bài hát hiện tại!"
+	}
+}

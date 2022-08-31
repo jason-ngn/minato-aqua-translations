@@ -1,0 +1,14 @@
+{
+	"NO_SONG_IN_QUEUE": "Không có bài hát nào ở trong hàng chờ!",
+	"QUEUE_EMBED_FOOTER_TEXT": "Trang {pageNumber}/{maxPages} • Lặp lại hàng chờ: {emoji} • Tổng thời lượng: {queueDuration} • Hết hạn trong vòng 1 phút.",
+	"QUEUE_EMBED_TITLE": "Hàng chờ của {guildName}!",
+	"QUEUE_EMBED_PREVIOUS_SONG": "Bài hát trước đó:",
+	"QUEUE_EMBED_CURRENT_SONG": "Bài hát hiện tại:",
+	"QUEUE_EMBED_NEXT_SONG": "Bài hát kế tiếp:",
+	"REMOVED_DUPES": "Đã xoá bỏ các bài hát trùng lặp trong hàng chờ thành công!",
+	"SONG_UNAVAILABLE": "Bài hát cậu đã nêu không tồn tại!",
+	"QUEUE_SHUFFLED": "Đã xáo trộn hàng chờ thành công!",
+	"SONG_REMOVED": "Đã xoá bỏ bài hát **[{name}](<{url}>)** khỏi hàng chờ bởi **{tag}** thành công!",
+	"SONG_MOVED": "Đã di chuyển bài hát **[{name}](<{url}>)** từ vị trí **{from}** tới vị trí **{to}** thành công!",
+	"QUEUE_CLEARED": "Đã xoá bỏ tất cả bài hát ở trong hàng chờ thành công!"
+}

@@ -1,0 +1,15 @@
+{
+	"SUPPORT_SERVER": "Server hỗ trợ ",
+	"INVITE_ME": "Mời tớ",
+	"VOTE_ME": "Bỏ phiếu cho tớ",
+	"LANGUAGE_SELECT_MENU_PLACEHOLDER": "Vui lòng chọn một ngôn ngữ.",
+	"LANGUAGE_SELECT_MENU_DESCRIPTION": "Chọn {language} là ngôn ngữ của {client}.",
+	"PAUSE": "Tạm dừng",
+	"RESUME": "Tiếp tục",
+	"VOLUME_UP": "Tăng âm lượng",
+	"VOLUME_DOWN": "Giảm âm lượng",
+	"SKIP": "Bỏ qua",
+	"YES": "Có",
+	"NO": "Không",
+	"STOP": "Dừng lại"
+}

@@ -1,0 +1,15 @@
+{
+	"SUPPORT_SERVER": "Support server",
+	"INVITE_ME": "Invite me",
+	"VOTE_ME": "Vote me",
+	"LANGUAGE_SELECT_MENU_PLACEHOLDER": "Please choose a language.",
+	"LANGUAGE_SELECT_MENU_DESCRIPTION": "Choose {language} as the language for {client}.",
+	"PAUSE": "Pause",
+	"RESUME": "Resume",
+	"VOLUME_UP": "Volume +",
+	"VOLUME_DOWN": "Volume -",
+	"SKIP": "Skip",
+	"YES": "Yes",
+	"NO": "No",
+	"STOP": "Stop"
+}
